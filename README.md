@@ -16,7 +16,6 @@ O **App Clima** é uma aplicação web que permitirá a busca e visualização d
 - **Precisão:** Cada busca deve resultar em uma resposta clara e precisa.
 - **Variação de Temperatura:** Desejamos implentar pelo menos duas medições de temperatura: Celsius e Fahrenheit
 - **Alertas:** Incorporar um alerta de notificações para temperaturas e niveis de umidade extremos, Avisos de riscos naturais
-- **Favoritos**: Opção de favoritar o local (guardar em um banco de dados?).
 
 ### Objetivos Atingíveis
 - **Interface Dinâmica:** Implementar uma interface que não apenas exiba dados, mas que também ajuste o ambiente visual (como plano de fundo) baseado na temperatura atual.
