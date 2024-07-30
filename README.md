@@ -1,33 +1,45 @@
 # Projeto App Clima ☀🌦⛅
 
-## Escopo:
-- Desenvolver um aplicativo web que permite pesquisa e visualização de clima em locais de todo o mundo.
-- HTML, CSS, JavaScript, API
+## Escopo do Projeto
 
-## Objetivos:
--  Específicos:
-  -  O aplicativo permitirá a busca por cidades, estados e países a partir de um campo de pesquisa e retornará (com a ajuda de uma API) informações de temperatura, umidade, velocidade do vento, uma imagem de acordo com a temperatura atual, sensação térmica, entre outras.
-  
--  Mensuráveis:
-  -  O aplicativo deve ser efieciente, respondendo as requisições dos usuários rapidamente.
-  -  Se o usuário pesquisar n vezes, n respostas devem ser enviadas.
-  
--  Atingíveis:
-  - Mudança de plano de fundo de acordo com a temperatura atual.
-  - Inserção de outros campos de visualização além da temperatura (umidade, vento).
-  
--  Relevantes:
-  - Ajudar o usuário a visualizar de maneira fácil e rápida informações sobre o clima em sua cidade ou em qualquer região do mundo.
-  - Ajudar o usuário a se organizar de acordo com a temperatura atual.
--  Temporais:
-  -  
-  
-## Cronograma:
+O **App Clima** é um aplicativo web inovador que permite a busca e visualização de informações climáticas detalhadas para qualquer local ao redor do mundo. Usando uma API de clima, o aplicativo fornece dados em tempo real sobre temperatura, umidade, velocidade do vento, sensação térmica e muito mais.
 
+## Objetivos do Projeto
 
-## Recursos:
+### Objetivos Específicos
+- **Busca de Local:** Permite ao usuário pesquisar por cidades, estados ou países através de um campo de pesquisa intuitivo.
+- **Informações Climáticas Detalhadas:** Retorna dados sobre temperatura, umidade, velocidade do vento, sensação térmica e exibe uma imagem representativa com base na temperatura atual.
+- **Mudança de Plano de Fundo:** Altera o plano de fundo do aplicativo conforme a temperatura atual do local pesquisado.
 
-## Análise de Riscos:
-- Inserção de um local inexistente (tratar com uma mensagem ou imagem).
-- Chave de API fora do ar.
-- Diversas requisições podem bloquear a chave de API (chave gratuita).
+### Objetivos Mensuráveis
+- **Desempenho:** O aplicativo deve responder rapidamente a cada solicitação do usuário.
+- **Precisão:** Cada busca deve resultar em uma resposta clara e precisa.
+
+### Objetivos Atingíveis
+- **Interface Dinâmica:** Implementar uma interface que não apenas exiba dados, mas que também ajuste o ambiente visual (como plano de fundo) baseado na temperatura atual.
+- **Campos de Visualização:** Adicionar visualizações para umidade, velocidade do vento e outros dados relevantes além da temperatura.
+
+### Objetivos Relevantes
+- **Facilidade de Uso:** Proporcionar uma maneira simples e eficiente para que os usuários obtenham informações sobre o clima.
+- **Planejamento:** Ajudar os usuários a se organizarem com base nas condições climáticas atuais.
+
+### Objetivos Temporais
+- **Prazo de Implementação:** Completar o desenvolvimento do aplicativo em até 3 horas.
+
+## Cronograma
+
+| Etapa               | Descrição                                | Tempo Estimado |
+|---------------------|------------------------------------------|----------------|
+| **Planejamento**    | Definição de requisitos e escopo          | 30 min         |
+| **Desenvolvimento** | Codificação e integração com a API        | 1h 30min       |
+| **Teste e Ajustes** | Verificação de funcionalidade e ajustes   | 30 min         |
+| **Finalização**     | Documentação e preparação para entrega    | 30 min         |
+
+## Recursos Necessários
+- Computador com ambiente de desenvolvimento configurado (HTML, CSS, JavaScript).
+- Acesso à API de clima com uma chave válida.
+
+## Análise de Riscos
+- **Local Inexistente:** Exibir uma mensagem amigável ou uma imagem padrão quando o local não for encontrado.
+- **Problemas com a API:** Caso a chave de API esteja fora do ar, implementar uma mensagem de erro apropriada.
+- **Limitações da API:** Gerenciar e otimizar o número de requisições para evitar bloqueios da chave gratuita.
