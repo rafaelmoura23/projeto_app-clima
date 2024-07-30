@@ -27,7 +27,7 @@ O **App Clima** é uma aplicação web que permitirá a busca e visualização d
 - **Planejamento:** Ajudar os usuários a se organizarem com base nas condições climáticas atuais.
 
 ### Objetivos Temporais
-- **Prazo de Implementação:** Completar o desenvolvimento do aplicativo em até 3 horas.
+- **Prazo de Implementação:** Completar o desenvolvimento do aplicativo em até 4 horas.
 - **Protótipo no figma**: Prototipagem das telas, imagens e cores para visualização.
 - **Obtenção de uma chave de API**: Criação de uma chave de API e análise do retorno utilizando ferramentas adequadas(thunderclient)
 - **Preparação do ambiente de desenvolvimento e versionamento**: Instalação de ferramentas de desenvolvimento (VSCode, Git...) 
@@ -38,8 +38,8 @@ O **App Clima** é uma aplicação web que permitirá a busca e visualização d
 | Etapa               | Descrição                                | Tempo Estimado |
 |---------------------|------------------------------------------|----------------|
 | **Planejamento**    | Definição de requisitos, escopo e cronograma          | 30 min         |
-| **Desenvolvimento** | Codificação e integração com a API        | 1h 30min       |
-| **Teste e Ajustes** | Verificação de funcionalidade e ajustes   | 30 min         |
+| **Desenvolvimento** | Integração com API, Protótipo Figma e Ambiente de desenvolvimento        | 1h 00min       |
+| **Teste e Ajustes** | Codificação do projeto   | 2h 00min         |
 | **Finalização**     | Documentação e preparação para entrega    | 30 min         |
 
 ![image](https://github.com/user-attachments/assets/18fbe90f-951b-4350-8e20-c27fee02e205)
@@ -53,4 +53,4 @@ O **App Clima** é uma aplicação web que permitirá a busca e visualização d
 - **Local Inexistente:** Exibir uma mensagem amigável ou uma imagem padrão quando o local não for encontrado.
 - **Problemas com a API:** Caso a chave de API esteja fora do ar, implementar uma mensagem de erro apropriada.
 - **Limitações da API:** Gerenciar e otimizar o número de requisições para evitar bloqueios da chave gratuita.
-- **Variáveis de tempo e bugs durante o desenvolvimento**: 
+- **Variáveis de tempo e bugs durante o desenvolvimento**: Alternativas para curto tempo e dificuldades durante o desenolvimento.
