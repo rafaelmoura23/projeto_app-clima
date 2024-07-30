@@ -39,7 +39,7 @@ O **App Clima** é uma aplicação web que permitirá a busca e visualização d
 |---------------------|------------------------------------------|----------------|
 | **Planejamento**    | Definição de requisitos, escopo e cronograma          | 30 min         |
 | **Desenvolvimento** | Integração com API, Protótipo Figma e Ambiente de desenvolvimento        | 1h 00min       |
-| **Teste e Ajustes** | Codificação do projeto   | 2h 00min         |
+| **Codificação** | Codificação do projeto   | 1h 30min         |
 | **Finalização**     | Documentação e preparação para entrega    | 30 min         |
 
 ![image](https://github.com/user-attachments/assets/18fbe90f-951b-4350-8e20-c27fee02e205)
