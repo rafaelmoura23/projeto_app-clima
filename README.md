@@ -2,7 +2,7 @@
 
 ## Escopo do Projeto
 
-O **App Clima** é um aplicativo web que permitirá a busca e visualização de informações climáticas detalhadas para qualquer local ao redor do mundo. Usando uma API de clima, o aplicativo fornecerá dados em tempo real sobre temperatura, umidade, velocidade do vento, sensação térmica entre outros.
+O **App Clima** é uma aplicação web que permitirá a busca e visualização de informações climáticas detalhadas para qualquer local ao redor do mundo. Usando uma API de clima, o aplicativo fornecerá dados em tempo real sobre temperatura, umidade, velocidade do vento, sensação térmica entre outros.
 
 ## Objetivos do Projeto
 
@@ -24,7 +24,7 @@ O **App Clima** é um aplicativo web que permitirá a busca e visualização de 
 - **Planejamento:** Ajudar os usuários a se organizarem com base nas condições climáticas atuais.
 
 ### Objetivos Temporais
-- **Prazo de Implementação:** Completar o desenvolvimento do aplicativo em até 3 horas.
+- **Prazo de Implementação:** Completar o início do desenvolvimento do aplicativo em até 3 horas.
 - **Protótipo no figma**: Prototipagem das telas, imagens e cores para visualização.
 - **Obtenção de uma chave de API**: Criação de uma chave de API e análise do retorno utilizando ferramentas adequadas(thunderclient)
 - **Preparação do ambiente de desenvolvimento e versionamento**: Instalação de ferramentas de desenvolvimento (VSCode, Git...) 
