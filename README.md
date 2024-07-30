@@ -11,11 +11,14 @@
 -  Mensuráveis:
   -  O aplicativo deve ser efieciente, respondendo as requisições dos usuários rapidamente.
   -  Se o usuário pesquisar n vezes, n respostas devem ser enviadas.
+  
 -  Atingíveis:
   - Mudança de plano de fundo de acordo com a temperatura atual.
   - Inserção de outros campos de visualização além da temperatura (umidade, vento).
+  
 -  Relevantes:
-  - Ajudar o usuário a visualizar de maneira fácil e rápida, informações sobre o clima em sua cidade ou em qualquer região do mundo.
+  - Ajudar o usuário a visualizar de maneira fácil e rápida informações sobre o clima em sua cidade ou em qualquer região do mundo.
+  - Ajudar o usuário a se organizar de acordo com a temperatura atual.
 -  Temporais:
   -  
   
