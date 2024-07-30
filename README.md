@@ -9,13 +9,13 @@ O **App Clima** é uma aplicação web que permitirá a busca e visualização d
 ### Objetivos Específicos
 - **Busca de Local:** Permite ao usuário pesquisar por cidades, estados ou países através de um campo de pesquisa intuitivo.
 - **Informações Climáticas Detalhadas:** Retorna dados sobre temperatura, umidade, velocidade do vento, sensação térmica e exibe uma imagem representativa com base na temperatura atual.
-- **Mudança de Plano de Fundo:** Altera o plano de fundo do aplicativo conforme a temperatura atual do local pesquisado.
+- **Mudança de Plano de Fundo:** Alterar o plano de fundo do aplicativo conforme a temperatura atual do local pesquisado.
 
 ### Objetivos Mensuráveis
 - **Desempenho:** O aplicativo deve responder rapidamente a cada solicitação do usuário.
 - **Precisão:** Cada busca deve resultar em uma resposta clara e precisa.
 - **Variação de Temperatura:** Desejamos implentar pelo menos duas medições de temperatura: Celsius e Fahrenheit
-- **Alertas:** Incorporrar um alerta de notificações para temperaturas e niveis de umidade extremos, Avisos de riscos naturais
+- **Alertas:** Incorporar um alerta de notificações para temperaturas e niveis de umidade extremos, Avisos de riscos naturais
 
 ### Objetivos Atingíveis
 - **Interface Dinâmica:** Implementar uma interface que não apenas exiba dados, mas que também ajuste o ambiente visual (como plano de fundo) baseado na temperatura atual.
@@ -26,11 +26,12 @@ O **App Clima** é uma aplicação web que permitirá a busca e visualização d
 - **Planejamento:** Ajudar os usuários a se organizarem com base nas condições climáticas atuais.
 
 ### Objetivos Temporais
-- **Prazo de Implementação:** Completar o início do desenvolvimento do aplicativo em até 3 horas.
+- **Prazo de Implementação:** Completar o desenvolvimento do aplicativo em até 3 horas.
 - **Protótipo no figma**: Prototipagem das telas, imagens e cores para visualização.
 - **Obtenção de uma chave de API**: Criação de uma chave de API e análise do retorno utilizando ferramentas adequadas(thunderclient)
 - **Preparação do ambiente de desenvolvimento e versionamento**: Instalação de ferramentas de desenvolvimento (VSCode, Git...) 
-
+- **Início do Desenvolvimento**: Iniciar o desenvolvimento da aplicação, inserir as imagens e configurar a API (definição das rotas(json)).
+  
 ## Cronograma
 
 | Etapa               | Descrição                                | Tempo Estimado |
