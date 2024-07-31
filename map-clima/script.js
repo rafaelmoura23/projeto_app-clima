@@ -13,7 +13,9 @@ document.getElementById('forms-pesquisa').addEventListener('submit', async funct
                 const resultDiv = document.getElementById('informacoes-tempo');
                 resultDiv.innerHTML = `
                             <h2>${data.name}, ${data.sys.country}</h2>
-                            <p><strong>Coordenadas:</strong> Latitude ${data.coord.lat}, Longitude ${data.coord.lon}</p>
+                            <p><strong>Coordenadas:</strong> </p>
+                            <p>Latitude ${data.coord.lat}</p>
+                            <p>Longitude ${data.coord.lon}</p>
                             <p><strong>Clima:</strong> ${data.weather[0].main} (${data.weather[0].description})</p>
                             <p><strong>Ícone:</strong> <img src="http://openweathermap.org/img/wn/${data.weather[0].icon}.png" alt="${data.weather[0].description}"></p>
                             <p><strong>Temperatura Atual:</strong> ${data.main.temp} °C</p>
